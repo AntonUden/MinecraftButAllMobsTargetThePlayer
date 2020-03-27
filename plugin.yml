@@ -1,0 +1,7 @@
+name: MinecraftButAllMobsTargetThePlayer
+main: xyz.zeeraa.MinecraftButAllMobsTargetThePlayer.MinecraftButAllMobsTargetThePlayer
+authors: [Zeeraa]
+version: 1.0
+api-version: 1.13
+commands:
+  settarget:
